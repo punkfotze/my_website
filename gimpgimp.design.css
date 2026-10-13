@@ -1,0 +1,11 @@
+body { 
+    width:960px;
+    margin: 0 auto;
+    margin-top: 0;
+background: #ffffff url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzl03LsLGhUSE3uhZ6weNqH-8BvD1Dpa_IbablkusOLg8cYB6rcFBM_iL-7_uog9WY5SM0FbmsPJzdhGCNB4Km15RIj-y6-Ma5tWuI7llXMgVcIRPx8M2ryvYtngLRAoBLvDsbHFzTDwkv/s200/small_star4_pink.png") repeat scroll 50% 0%;
+}
+
+header {
+    background-color: #ffffff;
+    color: palevioletred;
+}
